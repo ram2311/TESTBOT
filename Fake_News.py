@@ -18,7 +18,6 @@ import numpy as np
 import sklearn
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 myCommands = {
     "start": "start",
