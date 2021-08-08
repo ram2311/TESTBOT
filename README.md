@@ -9,4 +9,4 @@ All code wasreviewed,perfected,and pushed to Github for hosting on Heroku.
 
 ## Screenshots
 
-![](images/tele1.PNG)
+![](tele1.PNG)
